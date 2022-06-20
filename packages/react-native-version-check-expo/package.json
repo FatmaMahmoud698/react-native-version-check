@@ -29,7 +29,7 @@
     "react-native-version-check": "^3.4.2"
   },
   "devDependencies": {
-    "expo": "^33.0.0",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-33.0.0.tar.gz"
+    "expo": "^45.0.5",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-44.0.0.tar.gz"
   }
 }
