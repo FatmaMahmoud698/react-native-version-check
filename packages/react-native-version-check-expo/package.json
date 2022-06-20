@@ -21,7 +21,7 @@
     "Thomas Schoffelen <thomas@includable.com>"
   ],
   "peerDependencies": {
-    "expo": ">=26"
+    "expo": "^45.0.5"
   },
   "dependencies": {
     "expo-constants": "5.0.1",
